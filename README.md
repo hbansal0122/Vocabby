@@ -1,13 +1,6 @@
 # Vocabby
 This is a vocabulary learning tool, which analyses the vocabulary structure in text and creates learning activities on the fly. This provides freedom for the learner who has some basic skills in English and wants to improve their vocabulary to learn words from their targeted area.
 
-
-# Clone repo
-```bash
-git clone https://github.com/HaemanthSP/Vocabby.git
-git checkout 583af3c58ed526c762a103246d491e86f7bd8dfa
-```
-
 # Setup venv
 ```bash
 virtualenv -p /usr/bin/python3 ~/envs/vocab
